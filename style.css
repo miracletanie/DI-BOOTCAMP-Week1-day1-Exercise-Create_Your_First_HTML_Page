@@ -1,0 +1,33 @@
+
+b {
+    text-align:center;
+}
+
+div {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    
+}
+
+h4 {
+    border:1px solid red;
+    text-align: center;
+    color: red;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+
+  .im1{
+    text-align: center;
+    
+  }
+  .im1 img{
+    border: 3px solid red;
+    width:50%;
+    height:50%;
+  }
+  .breed {
+    background-color: yellow;
+  }
